@@ -1,4 +1,4 @@
-- 👀 I’m interested technical stuff
+- 👀 I’m interested in technical stuff
 
 
 <!---
