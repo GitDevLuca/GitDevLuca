@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @GitDevLuca
 - 👀 I’m interested technical stuff
 
 
