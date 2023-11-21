@@ -1,6 +1,6 @@
 - 👀 I’m interested in technical stuff
 - ✨ E-Sportler for NUTN
-                    ~Now Use That Knowledge
+                    ~Now Use That kNowledge
 
 <!---
 GitDevLuca/GitDevLuca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
