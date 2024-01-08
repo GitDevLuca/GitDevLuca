@@ -3,7 +3,6 @@
 
 
 
-- 👀 I’m interested in technical stuff
 - ✨ E-Sportler for NUTN
                     ~Now Use That kNowledge
 
