@@ -1,4 +1,5 @@
-![image](https://github.com/GitDevLuca/GitDevLuca/assets/133748737/60e34843-3069-4176-a4ce-7d94baef51a8)
+![image](https://github.com/GitDevLuca/GitDevLuca/assets/133748737/887a9bdd-7b05-407f-bfd1-72c6061a7d2f)
+
 
 
 
