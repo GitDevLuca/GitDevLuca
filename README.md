@@ -1,6 +1,6 @@
 
 - ✨ Professional Player for NUTN E-Sports
-                    ~Now Use That kNowledge
+                    
 
 <!---
 GitDevLuca/GitDevLuca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
