@@ -1,5 +1,5 @@
 
-- ✨ E-Sportler for NUTN
+- ✨ Professional Player for NUTN E-Sports
                     ~Now Use That kNowledge
 
 <!---
