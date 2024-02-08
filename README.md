@@ -1,5 +1,5 @@
 
-- ✨ Professional Minecraft Player for NUTN E-Sports
+- ✨ Professional Minecraft Player for GRIT E-Sports
                     
 
 <!---
