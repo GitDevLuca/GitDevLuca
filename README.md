@@ -1,4 +1,4 @@
-<h2 align="left"></h2>
+<h2 align="left">Hi 👋! My name is Luca and I'm cookin rn</h2>
 
 ###
 
@@ -10,9 +10,8 @@
 ###
 
 <div align="center">
-  <img width="700" height="300" src="https://tenor.com/de/view/kevin-levrone-gif-4473075182203618834.gif" />
+  <img width="700" height="300" src="https://tenor.com/de/view/kevin-levrone-please-dont-stop-the-music-gif-14433227417231699794.gif" />
 </div>
-
 
 
 ###
@@ -62,8 +61,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/GitDevLuca/GitDevLuca/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/GitDevLuca/count.svg?"  />
+</div>
 
 ###
