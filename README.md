@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Luca and I'm cookin rn</h2>
+<h2 align="left"></h2>
 
 ###
 
@@ -10,14 +10,14 @@
 ###
 
 <div align="center">
-  <img width="800" height="300" src="https://tenor.com/de/view/kevin-levrone-gif-4473075182203618834.gif" />
+  <img width="700" height="300" src="https://tenor.com/de/view/kevin-levrone-gif-4473075182203618834.gif" />
 </div>
 
 
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -39,7 +39,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://youtu.be/GFq6wH5JR2A?si=mf_blYUwU84ChrmJ" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
