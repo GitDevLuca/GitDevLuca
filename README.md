@@ -61,8 +61,16 @@
 
 ###
 
+###
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/GitDevLuca/count.svg?"  />
+    <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitdevluca&" alt="gitdevluca" />
+  </p>
+  <p>
+    <a href="https://www.buymeacoffee.com/GitDevLuca">
+      <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="GitDevLuca" /> 
+    </a>
+  </p>
 </div>
 
-###
