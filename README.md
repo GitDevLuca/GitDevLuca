@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://tenor.com/de/view/kevin-levrone-gif-4473075182203618834.gif"  />
+  <img height="200" src="https://tenor.com/de/view/kevin-levrone-gif-4473075182203618834.gif"  />
 </div>
 
 ###
