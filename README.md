@@ -1,4 +1,4 @@
-<h2 align="left"></h2>
+<h2 align="left">Hi 👋! My name is Luca and I'm cookin rn</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://tenor.com/de/view/kevin-levroni-bodybuilder-gym-gif-27330637.gif"  />
+  <img height="500" src="https://tenor.com/de/view/kevin-levrone-gif-4473075182203618834.gif"  />
 </div>
 
 ###
