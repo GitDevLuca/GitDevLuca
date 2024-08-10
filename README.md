@@ -64,7 +64,7 @@
     <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=gitdevluca&" alt="gitdevluca" />
   </p>
   <p>
-    <a href="https://www.buymeacoffee.com/GitDevLuca">
+    <a href="https://youtu.be/GFq6wH5JR2A?si=mf_blYUwU84ChrmJ">
       <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="GitDevLuca" /> 
     </a>
   </p>
